@@ -50,8 +50,8 @@
 
             echo "<td>".$no."</td>";
             echo "<td><img src='".$siswa['foto']."' width='100' height='100'></td>";
-            echo "<td>".$siswa['nis']."</td>";
             echo "<td>".$siswa['nama']."</td>";
+            echo "<td>".$siswa['nis']."</td>";
             echo "<td>".$siswa['alamat']."</td>";
             echo "<td>".$siswa['jenis_kelamin']."</td>";
             echo "<td>".$siswa['agama']."</td>";
