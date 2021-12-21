@@ -27,7 +27,9 @@
     <thead>
         <tr>
             <th>No</th>
+            <th>Foto</th>
             <th>Nama</th>
+            <th>NIS</th>
             <th>Alamat</th>
             <th>Jenis Kelamin</th>
             <th>Agama</th>
